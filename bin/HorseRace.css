@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&family=Rubik+Iso&display=swap');
+
+.root {
+	-fx-background-color: #84cb53;
+}
+
+.label-title {
+	-fx-font-family: 'Press Start 2P', cursive;
+	-fx-text-fill: gold;
+	-fx-font-size: 50pt;
+	-fx-font-style: italic;
+	-fx-font-weight: bold;
+}
+
+.label-choice {
+	-fx-font-family: 'Press Start 2P', cursive;
+	-fx-font-size: 15pt;
+	-fx-font-weight: bolder;
+}
+
+.label-2 {
+	-fx-font-family: 'Press Start 2P', cursive;
+	-fx-text-fill: white;
+	-fx-font-size: 15pt;
+	-fx-font-weight: bolder;
+}
+
+.choice-box {
+	-fx-background-color: #a9edfb;
+	-fx-border-style: solid;
+}
+
+.button {
+	-fx-font-family: 'Press Start 2P', cursive;
+	-fx-background-color: gold;
+	-fx-font-size: 15pt;
+	-fx-border-radius: 20;
+	-fx-background-radius: 20;
+	-fx-padding: 10;
+}
